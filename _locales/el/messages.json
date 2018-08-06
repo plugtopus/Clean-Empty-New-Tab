@@ -1,0 +1,17 @@
+﻿{
+   "desc": {
+      "message": "Clean Empty New Tab Page"
+   },
+   "name": {
+      "message": "Clean Empty New Tab"
+   },
+   "shortname": {
+      "message": "Clean new Tab"
+   },
+   "title": {
+      "message": "Clean new Tab"
+   },
+   "share_text": {
+      "message": "Like this Extension? Please share this with your friends. Thank you!"
+   }
+}
